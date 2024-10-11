@@ -1,25 +1,23 @@
-class Pessoa {
+class Animal {
 
-    constructor(nome, idade) {
-      this.nome = nome;
-      this.idade = idade;
-    }
-  
-    falar() {
-      console.log(`Olá, meu nome é ${this.nome}.`);
-    }
+  constructor(nome) {
+    this.nome = nome;
   }
 
-class Funcionario extends Pessoa {
-    constructor(nome, idade, cargo) {
-      super(nome, idade);
-      this.cargo = cargo;
-    }
-  
-    apresentar() {
-      console.log(`Eu sou ${this.nome}, trabalho como ${this.cargo}`);
-    }
+  late() {
+    console.log(`${this.nome} late.`)
   }
-  
-  const maria = new Funcionario('Maria', 28, 'Desenvolvedora');
-  maria.apresentar(); // "Eu sou Maria, trabalho como Desenvolvedora"
+
+}
+
+class Cachorro extends Animal {
+
+  corre() {
+    console.log(`${this.nome} corre.`)
+  }
+
+}
+
+const meuCachorro = new Cachorro()
+meuCachorro.late() // Rex late 
+meuCachorro.corre() // Rex corre
