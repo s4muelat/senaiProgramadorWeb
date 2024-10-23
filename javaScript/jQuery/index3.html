@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudar Cor com jQuery</title>
+    <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
+    <script src="jquery-3.7.1.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('#mudarCor').click(function() {
+                $(this).css('color', 'red'); // Muda a cor do texto para vermelho
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Clique no parágrafo abaixo para mudar a cor:</h1>
+    <p id="mudarCor">Este é um parágrafo que mudará de cor ao ser clicado.</p>
+</body>
+</html>

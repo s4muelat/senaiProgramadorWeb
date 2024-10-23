@@ -1,16 +1,22 @@
-class Animal {
+class Mae {
 
   constructor(nome) {
     this.nome = nome;
   }
 
-  late() {
-    console.log(`${this.nome} late.`)
+  gritar() {
+
+    var nome = this.nome
+
+    function imprimir(nomePessoa) {
+      console.log(nomePessoa + ' grita')
+    }
+    imprimir(nome)
   }
 
 }
 
-class Cachorro extends Animal {
+class Filha extends Mae {
 
   corre() {
     console.log(`${this.nome} corre.`)
@@ -18,6 +24,6 @@ class Cachorro extends Animal {
 
 }
 
-const meuCachorro = new Cachorro()
-meuCachorro.late() // Rex late 
-meuCachorro.corre() // Rex corre
+const minhaFilha = new Filha("Aline")
+minhaFilha.corre()
+minhaFilha.gritar()

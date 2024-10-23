@@ -1,0 +1,8 @@
+class Cliente {
+
+    constructor() {
+
+        
+    }
+
+}
