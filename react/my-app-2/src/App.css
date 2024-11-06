@@ -1,0 +1,32 @@
+body {
+  /*
+  background-color: greenyellow;
+  */
+  
+  margin: 10px;
+}
+
+button { 
+  margin-top: 10px;
+  font-family: Verdana;
+  font-size: 20px;
+
+
+}
+
+button {
+  display: block;
+}
+
+input {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.main {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
