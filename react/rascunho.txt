@@ -1,0 +1,25 @@
+npm install -g create-react-app
+
+Criar o projeto ReactJS
+
+npx create-react-app myapp
+
+
+import React, { useState } from 'react';
+
+function MeuComponente() {
+  const [contador, setContador] = useState(0);
+
+  const handleClick = () => {
+    setContador(contador + 1);
+  };
+
+  return (
+    <div>
+      <p>Contador: {contador}</p>
+      <button onClick={handleClick}>Clique aqui</button>
+    </div>
+  );
+}
+
+export default MeuComponente;

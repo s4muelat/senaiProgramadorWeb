@@ -1,15 +1,12 @@
-import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AlteraBotao from './EventoOnChange';
-import OnMouse from './componentes/onMouseEnter';
-import ListaDeFrutas from './componentes/ListaDeFrutas';
-import ListaDeFrutasID from './componentes/ListaDeFrutasID';
+import './App.css'
+import MinhaRef from './componentes/MinhaRef';
 
 function App() {
 
     return (
         <div className='main'>
-            <ListaDeFrutasID />
+            <MinhaRef />
 
         </div>
     )
