@@ -1,0 +1,15 @@
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\bin\Debug\net9.0\meuProjNET.exe
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\bin\Debug\net9.0\meuProjNET.deps.json
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\bin\Debug\net9.0\meuProjNET.runtimeconfig.json
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\bin\Debug\net9.0\meuProjNET.dll
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\bin\Debug\net9.0\meuProjNET.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.AssemblyInfoInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.AssemblyInfo.cs
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.csproj.CoreCompileInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.sourcelink.json
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.dll
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\refint\meuProjNET.dll
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\meuProjNET.genruntimeconfig.cache
+C:\meusFontes\senaiProgramadorWeb\NET\meuProjNET\obj\Debug\net9.0\ref\meuProjNET.dll
