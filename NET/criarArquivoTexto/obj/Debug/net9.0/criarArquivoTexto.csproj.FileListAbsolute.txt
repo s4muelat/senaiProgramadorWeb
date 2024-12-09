@@ -1,0 +1,15 @@
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\bin\Debug\net9.0\criarArquivoTexto.exe
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\bin\Debug\net9.0\criarArquivoTexto.deps.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\bin\Debug\net9.0\criarArquivoTexto.runtimeconfig.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\bin\Debug\net9.0\criarArquivoTexto.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\bin\Debug\net9.0\criarArquivoTexto.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.AssemblyInfoInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.AssemblyInfo.cs
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.csproj.CoreCompileInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.sourcelink.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\refint\criarArquivoTexto.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\criarArquivoTexto.genruntimeconfig.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarArquivoTexto\obj\Debug\net9.0\ref\criarArquivoTexto.dll

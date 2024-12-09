@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gerenciadorDeLivros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af48b1748cd3c8ef96cfd59a730a7abd620e199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb157a2f12be5f73081a1de832035c2a60a7e77e")]
 [assembly: System.Reflection.AssemblyProductAttribute("gerenciadorDeLivros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gerenciadorDeLivros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

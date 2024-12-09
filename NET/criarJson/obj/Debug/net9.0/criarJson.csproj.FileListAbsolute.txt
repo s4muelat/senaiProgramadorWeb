@@ -1,0 +1,15 @@
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\bin\Debug\net9.0\criarJson.exe
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\bin\Debug\net9.0\criarJson.deps.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\bin\Debug\net9.0\criarJson.runtimeconfig.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\bin\Debug\net9.0\criarJson.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\bin\Debug\net9.0\criarJson.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.AssemblyInfoInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.AssemblyInfo.cs
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.csproj.CoreCompileInputs.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.sourcelink.json
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\refint\criarJson.dll
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.pdb
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\criarJson.genruntimeconfig.cache
+C:\meusFontes\senaiProgramadorWeb\NET\criarJson\obj\Debug\net9.0\ref\criarJson.dll
