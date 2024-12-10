@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("conversorDeArquivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a200b9c155817656c409824eace204adc8ba290b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fff326f3e7a0bf96e3c7904917f95fa22bc42733")]
 [assembly: System.Reflection.AssemblyProductAttribute("conversorDeArquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("conversorDeArquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
